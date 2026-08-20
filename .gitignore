@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+*.backup-*
+.DS_Store
+app/admin/
+app/menu/
+app/order/
+
